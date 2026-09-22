@@ -10,7 +10,7 @@ class KasirApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Kasir Kafe',
+      title: 'Kasirweh Cafe',
       debugShowCheckedModeBanner: false,
       theme: buildAppTheme(),
       initialRoute: Routes.pin,
