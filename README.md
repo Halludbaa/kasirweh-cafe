@@ -9,6 +9,4 @@ Kasirweh Cafe adalah aplikasi kasir sederhana untuk keperluan bisnis kecil/mikro
 
 ## Preview:
 
-[example 1](./doc-1.png)
-[example 2](./doc-2.png)
-[example 3](./doc-3.png)
+![example 1](./doc-1.png)![example 2](./doc-2.png)![example 3](./doc-3.png)
